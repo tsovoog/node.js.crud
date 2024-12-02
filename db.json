@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "postId": "a72a5589-48af-47ef-b3e1-8334fff39467",
+      "userId": 1,
+      "desc": "asd",
+      "image": "asd",
+      "publishedAt": "2024-09-11T01:56:10.732Z"
+    }
+  ],
+  "comments": [],
+  "users": []
+}
